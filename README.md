@@ -23,7 +23,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  
 ### Mobile Phone
 
-* ```MobilePhone``` isimli bir sınıf oluşturacağız. İçerisinde Contact tipinde bir ArrayList tutmalı.
+* ```Mobile.MobilePhone``` isimli bir sınıf oluşturacağız. İçerisinde Contact tipinde bir ArrayList tutmalı.
 * 2 tane field tutması lazım. Bir tanesi ```myNumber``` isminde ve String tipinde, diğer, ```myContacts``` isminde ve Contact ArrayList'i olmalı.
 * Constructor metodu myNumber değerini doldurmalı.
 * 7 tane metodumuz olmalı
